@@ -1,0 +1,14 @@
+
+A repo consisting of exercises inspired by the
+Python Tutor mailing list.
+
+
+git init
+# add a README and any other files
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:alexKleider/PythonTutor.git
+git push -u origin main
+
+
